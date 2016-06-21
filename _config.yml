@@ -1,0 +1,28 @@
+name: time
+favicon: null
+layout_spectrum: 0.06948157004080713
+typography_spectrum: 0.7765498152002692
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9457820022944361
+  lightness: 0.45149056520313025
+  saturation: 0.39142121095210314
+  rhythmicContrast: 0.39899749937467277
+purpose: []
